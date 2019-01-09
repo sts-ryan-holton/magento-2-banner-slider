@@ -1,11 +1,11 @@
 {
-  "name": "sts-ryan-holton/magento-2-banner-slider",
+  "name": "mageplaza/module-banner-slider",
   "description": "Magento 2 Banner Slider extension",
   "require": {
     "mageplaza/module-core": "^1.4.0"
   },
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "license": "proprietary",
   "authors": [
     {
